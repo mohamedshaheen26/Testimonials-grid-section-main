@@ -64,7 +64,7 @@ q {
 }
 /********************** End Global Rules **********************/
 main {
-  padding: 100px 40px;
+  padding: 115px 40px;
   display: flex;
   justify-content: center;
   align-items: center;
